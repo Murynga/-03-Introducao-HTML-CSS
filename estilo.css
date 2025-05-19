@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(25, 23, 27);
+}
+
+#nome {
+    width: fit-content;
+    margin: auto;
+}
+
+p {
+	background-color: rgb(89, 0, 255);
+	color: rgb(212, 212, 212);
+    border-radius: 50px;
+    text-align: center;
+    font-size: 14pt;
+}
